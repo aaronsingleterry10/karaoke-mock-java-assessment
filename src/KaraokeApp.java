@@ -4,7 +4,8 @@ import java.util.Scanner;
 public class KaraokeApp {
 
     public static void main(String[] args) {
-//
+
+        System.out.println(Song.parseLyrics("blah blah blah blah"));
 //        Scanner scanner = new Scanner(System.in);
 //        String userChoice = null;
 //
