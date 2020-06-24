@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class KaraokeApp {
 
-//    public static void main(String[] args) {
+    public static void main(String[] args) {
 //
 //        Scanner scanner = new Scanner(System.in);
 //        String userChoice = null;
@@ -38,6 +38,6 @@ public class KaraokeApp {
 //        } else {
 //            musicPlayer.play(a);
 //        }
-//    }
+    }
 
 }
