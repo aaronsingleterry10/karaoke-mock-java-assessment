@@ -39,8 +39,8 @@ public class Song {
 
     public static List<String> parseLyrics(String input) {
         List<String> newString = new ArrayList<>();
-        String[] newInput = input.split(" ");
-        newString.add(Arrays.toString(newInput));
+//        String[] newInput = input.split(" ");
+        newString.add(input);
         return newString;
     }
 }
